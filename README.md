@@ -143,3 +143,7 @@ The system automatically generates alerts when adding logs:
 | `ER_BAD_DB_ERROR` | Run `schema.sql` first |
 | Port conflict | Change `PORT=3001` in `.env` |
 | CORS error | Both frontend and backend must be on same server (or use Chrome extension) |
+
+## DASHBOARD PREVIEW
+<img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/9a9d9a00-71cc-4531-b589-7517fc953a53" />
+
